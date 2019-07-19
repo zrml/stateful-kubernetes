@@ -68,6 +68,13 @@ Official Kubernetes docs and specifications.
   - [Openio](https://github.com/open-io/oio-sds)
   - [HPE](https://hpe.com/storage/containers)
   - Docker FlexVolume driver [Dory](https://github.com/hpe-storage/dory)
+  - [Blockbridge](https://www.blockbridge.com/)
+  - [Hedvig](https://www.hedvig.io/)
+  - [EMC REX-Ray](https://rexray.io/)
+  - [Virtuozzo](https://www.virtuozzo.com/)
+  - [Arrikto](https://www.arrikto.com/)
+  - [Reduxio](https://www.reduxio.com/)
+  
 - Chaos Engineering frameworks
   - [Litmus](https://github.com/openebs/litmus)
   - [Chaosplatform](https://github.com/chaostoolkit/chaosplatform)
